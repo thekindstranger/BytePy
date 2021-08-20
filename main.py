@@ -267,7 +267,7 @@ def process_mouse():
         mouse_down_last_frame = False
 
 
-# hacky way of testing the game, DO NOT LEAVE IN
+# load in the board
 path = os.getcwd() + '/TEST.board'
 Game.load_board(path)
 
