@@ -1,0 +1,1 @@
+BytePy is a simple game made solely so I could try an implementation of the bytecode design pattern. To clearify that the bytecode is the only thing communicated between the 'programmer' and the 'game' I've tried to use events as much as possible.
